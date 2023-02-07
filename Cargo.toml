@@ -1,0 +1,10 @@
+[package]
+description = "A utility package that provides a series of noise functions and other utilities for use in wgpu shaders."
+edition = "2021"
+keywords = ["bevy", "wgpu"]
+license = "MIT"
+name = "bevy_shader_utils"
+version = "0.3.0"
+
+[dependencies]
+bevy = "0.9.0"
