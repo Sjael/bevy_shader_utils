@@ -86,3 +86,9 @@ Voronoi and Noise: https://iquilezles.org/articles/voronoise/
 
 var value = voroNoise2(vec2<f32>(5.0, 6.0), 0.0, 1.0)
 ```
+
+
+from @ChristopherBiscardi
+
+# bevy_shader_utils
+
