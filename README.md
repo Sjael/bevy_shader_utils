@@ -1,5 +1,7 @@
 # Bevy Shader Utils
 
+# from @ChristopherBiscardi
+
 A utility package that provides a series of noise functions and other utilities for use in wgpu shaders.
 
 ## Quick Start
@@ -88,7 +90,6 @@ var value = voroNoise2(vec2<f32>(5.0, 6.0), 0.0, 1.0)
 ```
 
 
-from @ChristopherBiscardi
 
 # bevy_shader_utils
 
